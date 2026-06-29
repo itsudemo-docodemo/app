@@ -1,5 +1,5 @@
 **Last updated**  
-2022年 9月 30日
+2026年 6月 29日
 
 # プライバシーポリシー
 
@@ -63,9 +63,9 @@
 Google 広告に関するポリシー  
 https://policies.google.com/technologies/ads?hl=ja
 
-## 第9条（利用状況解析）
+## 第9条（アクセス解析・クラッシュ収集ツールについて）
 
-本アプリでは、今後の開発の参考とするため、アプリの利用状況データを収集するツールとしてFirebase(Google Inc.)を使用しており、Firebaseがユーザーの情報を自動取得する場合がございます。取得する情報、利用目的、第三者への提供等につきましては、以下のGoogleプライバシーポリシーのリンクよりご確認ください。
+本アプリでは、アプリの利用状況データを収集するツールとして Firebase Analytics（Google LLC）を、アプリの安定性向上のためにクラッシュ・診断データを収集するツールとして Firebase Crashlytics（Google LLC）を使用しています。これらが取得する情報は匿名であり、個人を特定するものではありません。取得データの取扱いについては Google のプライバシーポリシーをご確認ください。
 
 Google プライバシーポリシー  
 https://policies.google.com/privacy?hl=ja
